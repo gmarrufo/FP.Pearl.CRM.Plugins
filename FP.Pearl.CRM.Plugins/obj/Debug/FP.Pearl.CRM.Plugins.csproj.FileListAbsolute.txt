@@ -1,0 +1,10 @@
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\FP.Pearl.CRM.Plugins.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\FP.Pearl.CRM.Plugins.pdb
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\Microsoft.IdentityModel.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\obj\Debug\FP.Pearl.CRM.Plugins.csprojResolveAssemblyReference.cache
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\obj\Debug\FP.Pearl.CRM.Plugins.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\obj\Debug\FP.Pearl.CRM.Plugins.pdb

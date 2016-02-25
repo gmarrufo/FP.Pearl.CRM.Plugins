@@ -1,0 +1,17 @@
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\FP.Pearl.CRM.Plugins.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\FP.Pearl.CRM.Plugins.pdb
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.IdentityModel.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Client.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Portal.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\AntiXssLibrary.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Client.xml
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Portal.xml
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\bin\Release\Microsoft.Xrm.Sdk.Deployment.xml
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\obj\Release\FP.Pearl.CRM.Plugins.csprojResolveAssemblyReference.cache
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\obj\Release\FP.Pearl.CRM.Plugins.dll
+C:\NET_Workspace\FP.Pearl.CRM.Plugins\FP.Pearl.CRM.Plugins\obj\Release\FP.Pearl.CRM.Plugins.pdb
